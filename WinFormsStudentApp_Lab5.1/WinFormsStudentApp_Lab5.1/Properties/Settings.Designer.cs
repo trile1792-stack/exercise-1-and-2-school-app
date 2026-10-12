@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WinFormsStudentApp.Properties
+namespace WinFormsStudentApp_Lab5._1.Properties
 {
 
 
